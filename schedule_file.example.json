@@ -1,0 +1,12 @@
+[
+    {
+        "instance_name": "scw-instance-qwerty-1",
+        "working_hours_time_zone": "Europe/Berlin",
+        "working_hours": ["08:00", "20:00"]
+    },
+    {
+        "instance_name": "scw-instance-qwerty-2",
+        "working_hours_time_zone": "Europe/Kiev",
+        "working_hours": ["08:00", "20:00"]
+    }
+]
